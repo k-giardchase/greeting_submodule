@@ -17,11 +17,11 @@ function greetings_menu() {
 }
 
 function say_hello() {
-    return '<p>Hello my dear friend!</p>';
+    return '<p>HHELLO BACON CHICKEN APPELS</p>';
 }
 
 function say_farewell() {
-    return '<p>Fare thee well my dear friend!</p>';
+    return '<p>GOODBYE DOUGHTNUT TURKEY CIDER!</p>';
 }
 
 function greetings_user_login() {
