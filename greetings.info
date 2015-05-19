@@ -1,0 +1,5 @@
+name = Greetings
+description = A module to display greetings
+package = Epicodus Examples
+core = 7.x
+files[] = greetings.module
